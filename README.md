@@ -5,14 +5,18 @@ This purpose of this university's project is to build a portfolio depending on t
 Project production : 
 
 Wiem Ghazouani : Github : https://github.com/wiemmmm 
+
                   Notebooks :  II- Etude des rendements 
                                IV- A- Analyse Stratégie Long Only
 
 Mamadou Missilou Haidara : Github : https://github.com/Haidara15/
+
                   Notebooks : III-B-Arima & Sarima 
                               IV - B-  Analyse Stratégie Long Short
 
 Grunenwald Louis : Github : https://github.com/LouisGrunenwald/
+
                   Notebooks : I- Pre-processing 
+                              II- Data_Viz_2
                               III- A- Modélisation des rendements 
                               V) Analyse du gestionnaire 
